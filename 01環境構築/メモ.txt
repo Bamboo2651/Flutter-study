@@ -1,0 +1,21 @@
+＃環境構築
+参考URL 
+ユーチューブ：https://youtu.be/bwctQzMDiDY?si=RvoOSPzeA-qoj2Em
+1_1. Flutter SDK をダウンロード
+https://docs.flutter.dev/install/manual
+SDKをダウンロードし、解答して、好きな場所に保存する
+c:/sdk/flutter
+
+1_2. 環境変数を設定
+システム環境変数の編集を開く。
+↓
+環境変数
+↓
+PATHを選択して編集
+↓
+C:\SDK\flutter\binを追加
+コマンドプロンプトで確認
+flutter 
+flutter doctorで必要な依存関係を確認
+
+1_3. Android Studio をインストール
