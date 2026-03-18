@@ -13,7 +13,7 @@ class BananaCounter extends StatelessWidget {
   Widget build(BuildContext context) {
     // バナナの画像
     final banana = Image.asset(
-      'App/asset/06/banana.png',
+      'images/06/banana.png',
       width: 40,
       height: 40,
     );
