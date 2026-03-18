@@ -20,7 +20,7 @@ void main() {
     children: [
       con2,
       con2,
-      con2,
+      img,
     ],
   );
   //コンテナ
