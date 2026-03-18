@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 class BananaCounter extends StatelessWidget {
   // バナナの数
   final int number;
+  //intをstringにすると文字にできる
   const BananaCounter({
     super.key,
     required this.number,
