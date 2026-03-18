@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:project/06-StatelessWidget/banana_counter.dart';
+import 'package:project/06_StatelessWidget/banana_counter.dart';
 
 void main() {
   // バナナカウンターを使う
