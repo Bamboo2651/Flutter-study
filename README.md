@@ -27,8 +27,8 @@ App/lib/
 - [x] 05_Container          ✅ 2026/03/17 完了
 - [x] 06_StatelessWidget    ✅ 2026/03/18 完了
 - [x] 07_Button             ✅ 2026/03/18 完了
-- [ ] 08_TextField          ✅ 2026/03/19 完了
-- [ ] 09_riverpod
+- [x] 08_TextField          ✅ 2026/03/19 完了
+- [x] 09_riverpod           ✅ 2026/03/19 完了
 - [ ] 10_ListView
 - [ ] 11_go_router
 - [ ] 12_Drawer
