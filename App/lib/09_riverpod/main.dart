@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:flutter_riverpod/legacy.dart';
 
 void main() {
   // アプリ
@@ -11,7 +12,6 @@ void main() {
 
 // プロバイダー
 final nicknameProvider = StateProvider<String>((ref) {
-  // 変化するデータ
   return "ルビードッグ";
 });
 
