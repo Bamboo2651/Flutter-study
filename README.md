@@ -21,18 +21,18 @@ App/lib/
 - [x] 01_1 環境構築 ✅ 2026/03/15 完了
 - [x] 01_2 flutter create(環境構築) ✅ 2026/03/15 完了
 #### 開発
-- [x] 02_main_Widget        ✅ 2026/03/16 完了
-- [x] 03_Column_Row         ✅ 2026/03/16 完了
-- [x] 04_image              ✅ 2026/03/17 完了
-- [x] 05_Container          ✅ 2026/03/17 完了
-- [x] 06_StatelessWidget    ✅ 2026/03/18 完了
-- [x] 07_Button             ✅ 2026/03/18 完了
-- [x] 08_TextField          ✅ 2026/03/19 完了
-- [x] 09_riverpod           ✅ 2026/03/19 完了
-- [x] 10_ListView           ✅ 2026/03/19 完了
-- [ ] 11_go_router
-- [ ] 12_Drawer
-- [ ] 13_BottomNavigationBar
+- [x] 02_main_Widget         ✅ 2026/03/16 完了
+- [x] 03_Column_Row          ✅ 2026/03/16 完了
+- [x] 04_image               ✅ 2026/03/17 完了
+- [x] 05_Container           ✅ 2026/03/17 完了
+- [x] 06_StatelessWidget     ✅ 2026/03/18 完了
+- [x] 07_Button              ✅ 2026/03/18 完了
+- [x] 08_TextField           ✅ 2026/03/19 完了
+- [x] 09_riverpod            ✅ 2026/03/19 完了
+- [x] 10_ListView            ✅ 2026/03/19 完了
+- [ ] 11_go_router           ✅ 2026/03/19 完了
+- [ ] 12_Drawer              ✅ 2026/03/19 完了
+- [ ] 13_BottomNavigationBar ✅ 2026/03/19 完了
 - [ ] 14_Switch_Slider
 - [ ] 15_Radio_checkbox
 - [ ] 16_ProgressIndicator
