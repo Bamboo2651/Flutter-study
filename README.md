@@ -32,7 +32,7 @@ App/lib/
 - [x] 10_ListView               ✅ 2026/03/19 完了
 - [x] 11_go_router              ✅ 2026/03/19 完了
 - [x] 12_Drawer                 ✅ 2026/03/19 完了
-- [ ] 13_BottomNavigationBar    
+- [x] 13_BottomNavigationBar    ✅ 2026/03/20 完了
 - [ ] 14_Switch_Slider       
 - [ ] 15_Radio_checkbox
 - [ ] 16_ProgressIndicator
