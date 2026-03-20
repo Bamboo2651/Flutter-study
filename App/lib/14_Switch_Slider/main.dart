@@ -2,25 +2,21 @@ import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:flutter_riverpod/legacy.dart';
 
-/*
-  最新のFlutterに対応するため、動画と少しコードが変わりました
-*/
-void main() {
+void main(List<String> args) {
   const app = MaterialApp(home: Home());
   const scope = ProviderScope(child: app);
   runApp(scope);
 }
 
 final isOnProvider = StateProvider((ref) {
-  return true;
+  return true; //オンの状態から始まるスイッチ
 });
 
-final valueProvider = StateProvider((ref) {
+final valuProvider = StateProvider((ref) {
   return 0.0;
 });
-
 final rangeProvider = StateProvider((ref) {
-  return const RangeValues(0.1, 0.9);
+  return const RangeValues(0.0, 1.0);
 });
 
 class Home extends ConsumerWidget {
@@ -28,35 +24,27 @@ class Home extends ConsumerWidget {
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
-    // トグルスイッチ
     final isOn = ref.watch(isOnProvider);
     final toggleSwitch = Switch(
       value: isOn,
       onChanged: (isOn) {
         ref.read(isOnProvider.notifier).state = isOn;
       },
-      // 色を変える
-      // MEMO: activeColor は古くなったので activeThumbColor へ変更しました
       activeThumbColor: Colors.blue,
       activeTrackColor: Colors.green,
       inactiveThumbColor: Colors.black,
       inactiveTrackColor: Colors.grey,
     );
-
-    // スライダー
-    final value = ref.watch(valueProvider);
+    final value = ref.watch(valuProvider);
     final slider = Slider(
       value: value,
       onChanged: (value) {
-        ref.read(valueProvider.notifier).state = value;
+        ref.read(valuProvider.notifier).state = value;
       },
-      // 色を変える
       thumbColor: Colors.blue,
       activeColor: Colors.green,
       inactiveColor: Colors.black12,
     );
-
-    // レンジスライダー
     final range = ref.watch(rangeProvider);
     final rangeSlider = RangeSlider(
       values: range,
@@ -67,8 +55,11 @@ class Home extends ConsumerWidget {
       activeColor: Colors.green,
       inactiveColor: Colors.black12,
     );
-
-    final con = Container(width: value * 300, height: 20, color: Colors.blue);
+    final con = Container(
+      width: value * 400,
+      height: 20,
+      color: Colors.red,
+    );
 
     return Scaffold(
       body: Center(
