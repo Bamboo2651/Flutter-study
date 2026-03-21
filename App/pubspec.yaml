@@ -9,6 +9,7 @@ environment:
   sdk: ^3.11.1
 
 dependencies:
+  percent_indicator:
   flutter_riverpod:
   go_router:
   flutter:
