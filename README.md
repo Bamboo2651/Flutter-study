@@ -36,11 +36,22 @@ App/lib/
 - [x] 14_Switch_Slider          ✅ 2026/03/20 完了
 - [x] 15_Radio_checkbox         ✅ 2026/03/21 完了
 - [x] 16_ProgressIndicator      ✅ 2026/03/21 完了
-- [ ] 18_freezed
-- [ ] 19_carousel
-- [ ] 20_json
-- [ ] 21_font
-- [ ] 22_flavor
+- [ ] 17_Freezed
+- [ ] 18_carousel
+- [ ] 19_json
+- [ ] 20_font
+- [ ] 21_flavor
+- [ ] 22_accordion
+- [ ] 23_Firebase_Analytics
+- [ ] 24_Firebase_Auth
+- [ ] 25_responsible
+- [ ] 26_Dropdown
+- [ ] 27_envied
+- [ ] 28_Stack
+- [ ] 29_Dialg
+- [ ] 30_shared_prefs
+- [ ] 31_Firebase_firestore
+- [ ] 32_DateTime
 
 ---
 
