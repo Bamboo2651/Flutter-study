@@ -37,7 +37,7 @@ App/lib/
 - [x] 15_Radio_checkbox         ✅ 2026/03/21 完了
 - [x] 16_ProgressIndicator      ✅ 2026/03/21 完了
 - [x] 17_Freezed                ✅ 2026/03/23 完了
-- [ ] 18_carousel               ✅ 2026/03/23 完了
+- [x] 18_carousel               ✅ 2026/03/23 完了
 - [ ] 19_json
 - [ ] 20_font
 - [ ] 21_flavor
