@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:google_fonts/google_fonts.dart';
 
 void main() {
   const a = MyApp();
@@ -23,7 +24,10 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       body: Center(
-        child: Text('フラッター'),
+        child: Text(
+          'フラッター',
+          style: GoogleFonts.NotoSerifJapanese(),
+        ),
       ),
     );
   }
