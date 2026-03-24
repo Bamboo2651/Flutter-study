@@ -26,7 +26,7 @@ class HomePage extends StatelessWidget {
       body: Center(
         child: Text(
           'フラッター',
-          style: GoogleFonts.NotoSerifJapanese(),
+          style: GoogleFonts.hachiMaruPop(),
         ),
       ),
     );
