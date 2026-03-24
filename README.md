@@ -78,7 +78,7 @@ App/lib/
 | タイトル                       | リンク                                                                                              | 備考             |
 | ------------------------------ | --------------------------------------------------------------------------------------------------- | ---------------- |
 | Flutter 入門講座（再生リスト） | [YouTube](https://youtube.com/playlist?list=PLY1cxwSQf6nz6zo2Y_UJlDjGOpASAO4hd&si=fxew9wFhs1ZQo0DP) | メインの学習教材 |
-| 無料で学べる 23卒研修          | [YouTube](https://youtu.be/9IqUQ2TXacI?si=U-W7wUUNGJTO_rz4)                                         | 環境構築参考     |
+| 無料で学べる 23卒研修          | [YouTube](https://youtu.be/9IqUQ2TXacI?si=U-W7wUUNGJTO_rz4)                                         | 研修資料     |
 | YouTube チュートリアル         | [YouTube](https://youtu.be/bwctQzMDiDY?si=RvoOSPzeA-qoj2Em)                                         | 環境構築参考     |
 
 ### 公式ドキュメント
