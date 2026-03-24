@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:flutter_riverpod/legacy.dart';
 import 'package:project/13_BottomNavigationBar/page_a.dart';
 import 'package:project/13_BottomNavigationBar/page_b.dart';
 import 'package:project/13_BottomNavigationBar/page_c.dart';

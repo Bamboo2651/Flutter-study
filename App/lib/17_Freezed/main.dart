@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:flutter_riverpod/legacy.dart';
 import 'package:project/17_Freezed/abc_list.dart';
 import 'package:project/17_Freezed/fish.dart';
 // 自分が作った fish.dart ファイルを読み込む
