@@ -38,7 +38,7 @@ App/lib/
 - [x] 16_ProgressIndicator      ✅ 2026/03/21 完了
 - [x] 17_Freezed                ✅ 2026/03/23 完了
 - [x] 18_carousel               ✅ 2026/03/23 完了
-- [ ] 19_json
+- [x] 19_json                   ✅ 2026/03/24 完了
 - [ ] 20_font
 - [ ] 21_flavor
 - [ ] 22_accordion
