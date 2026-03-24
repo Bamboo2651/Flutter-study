@@ -39,7 +39,7 @@ App/lib/
 - [x] 17_Freezed                ✅ 2026/03/23 完了
 - [x] 18_carousel               ✅ 2026/03/23 完了
 - [x] 19_json                   ✅ 2026/03/24 完了
-- [ ] 20_font
+- [x] 20_font                   ✅ 2026/03/24 完了
 - [ ] 21_flavor
 - [ ] 22_accordion
 - [ ] 23_Firebase_Analytics
