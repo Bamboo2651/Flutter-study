@@ -41,7 +41,7 @@ App/lib/
 - [x] 19_json                   ✅ 2026/03/24 完了
 - [x] 20_font                   ✅ 2026/03/24 完了
 - [x] 21_flavor                 ✅ 2026/03/25 完了
-- [ ] 22_accordion
+- [x] 22_accordion              ✅ 2026/03/25 完了
 - [ ] 23_Firebase_Analytics
 - [ ] 24_Firebase_Auth
 - [ ] 25_responsible
