@@ -42,16 +42,16 @@ App/lib/
 - [x] 20_font                   ✅ 2026/03/24 完了
 - [x] 21_flavor                 ✅ 2026/03/25 完了
 - [x] 22_accordion              ✅ 2026/03/25 完了
-- [x] 23_Firebase_Analytics     ✅ 2026/03/25 完了
-- [ ] 24_Firebase_Auth
-- [ ] 25_responsible
-- [ ] 26_Dropdown
-- [ ] 27_envied
-- [ ] 28_Stack
-- [ ] 29_Dialg
-- [ ] 30_shared_prefs
-- [ ] 31_Firebase_firestore
-- [ ] 32_DateTime
+- [x] 23_Firebase_Analytics     ✅ 2026/03/25 見るだけ
+- [x] 24_Firebase_Auth          ✅ 2026/03/25 見るだけ
+- [x] 25_responsible            ✅ 2026/03/25 見るだけ
+- [x] 26_Dropdown               ✅ 2026/03/25 見るだけ
+- [x] 27_envied                 ✅ 2026/03/25 見るだけ
+- [x] 28_Stack                  ✅ 2026/03/25 見るだけ
+- [x] 29_Dialg                  ✅ 2026/03/25 見るだけ
+- [x] 30_shared_prefs           ✅ 2026/03/25 見るだけ
+- [x] 31_Firebase_firestore     ✅ 2026/03/25 見るだけ
+- [x] 32_DateTime               ✅ 2026/03/25 見るだけ
 
 ---
 
