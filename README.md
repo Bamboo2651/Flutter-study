@@ -40,7 +40,7 @@ App/lib/
 - [x] 18_carousel               ✅ 2026/03/23 完了
 - [x] 19_json                   ✅ 2026/03/24 完了
 - [x] 20_font                   ✅ 2026/03/24 完了
-- [ ] 21_flavor
+- [x] 21_flavor                 ✅ 2026/03/25 完了
 - [ ] 22_accordion
 - [ ] 23_Firebase_Analytics
 - [ ] 24_Firebase_Auth
